@@ -27,10 +27,10 @@ I build web apps end-to-end — from React/Next.js front-ends to Python and Java
 
 ## 📫 Where to find me
 
-- 🌐 Portfolio: <!-- add your portfolio URL --> _coming soon_
-- 💼 LinkedIn: <!-- add your LinkedIn URL --> _coming soon_
+- 🌐 Portfolio: https://adebareadesokan.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/adebare-adesokan-570b7b260/
 - 📧 Email: adesokanadebare@gmail.com
 
 ---
 
-<sub>💡 Open to internships and entry-level roles in full-stack and AI engineering.</sub>
+<sub>💡 Open to internships and roles in full-stack and AI engineering.</sub>
