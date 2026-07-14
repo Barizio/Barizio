@@ -1,36 +1,49 @@
-# Hi, I'm Adebare Adesokan 👋
+## Hi, I'm Adebare 👋
 
-**Full-stack developer transitioning into AI engineering.**
+I'm a Computer Science undergraduate at Pan Atlantic University with hands-on experience in
+full-stack development, backend API engineering, and product operations — including internships
+at Ecobank and Bazara Tech. This GitHub encompasses multiple projects I've worked on.
+<br/>
 
-I build web apps end-to-end — from React/Next.js front-ends to Python and Java back-ends — and I'm now focused on applying that foundation to AI-powered products: LLM integrations, intelligent assistants, and data-driven tools.
+[![Portfolio](https://img.shields.io/badge/-Portfolio-008080?style=for-the-badge&logo=vercel&logoColor=white)](https://adebareadesokan.vercel.app/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adesokanadebare@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adebare-adesokan-570b7b260)
 
----
+## :gear: Skills
+## Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-e3ba00?style=for-the-badge&logo=Python)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-008080?style=for-the-badge&logo=cplusplus)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-## 🔭 What I'm working on
+## Frameworks and Tools
 
-- **[ai-calendar-planner](https://github.com/Barizio/ai-calendar-planner)** — turns natural language into calendar events using an LLM parser + the Google Calendar API
-- **[matching-engine](https://github.com/Barizio/matching-engine)** — a high-performance limit order-book matching engine in Java 21 (~1.4M orders/sec)
-- **[landchain](https://github.com/Barizio/landchain)** — blockchain-based property registry (ERC-721 land titles, multisig security, IPFS)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/-Nest%20JS-008080?style=for-the-badge&logo=nestjs)
+![Node.js](https://img.shields.io/badge/-Node%20JS-orange?style=for-the-badge&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind-CSS](https://img.shields.io/badge/-Tailwind%20CSS-e5e5e5?style=for-the-badge&logo=tailwindcss)
+![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌱 Currently learning
+## GitHub Stats
 
-- **AI engineering** — LLM application development, prompt engineering, RAG, and agent workflows
-- Deepening my **full-stack** skills (Next.js, TypeScript, system design)
-- Production practices: testing, CI/CD, and secure deployment
+![](https://github-readme-streak-stats.herokuapp.com/?user=Barizio&theme=gruvbox&hide_border=false)
 
-## 🛠️ Tech I work with
+![](https://github-readme-stats.vercel.app/api?username=Barizio&show_icons=true&theme=gruvbox&hide_border=false)
 
-**Languages:** Python · JavaScript / TypeScript · Java · Rust · C
-**Frontend:** React · Next.js · Tailwind CSS
-**Backend:** Flask · Node.js
-**Other:** Solidity / Hardhat · Git · GitHub Actions
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Barizio&layout=compact&theme=gruvbox&hide_border=false)
 
-## 📫 Where to find me
-
-- 🌐 Portfolio: https://adebareadesokan.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/adebare-adesokan-570b7b260/
-- 📧 Email: adesokanadebare@gmail.com
-
----
-
-<sub>💡 Open to internships and roles in full-stack and AI engineering.</sub>
+<!---
+Barizio/Barizio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
